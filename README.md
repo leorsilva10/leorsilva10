@@ -1,5 +1,7 @@
 ### Hi, I'm Leonardo Silva :heavy_check_mark:
 
+asset/Mario_Gameplay.gif
+
 <!--
 **leorsilva10/leorsilva10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
